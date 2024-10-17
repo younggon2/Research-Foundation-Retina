@@ -21,3 +21,6 @@ If you find this repository useful, please consider citing this paper:
 ```
 
 ```
+
+### License
+Code and Model Weights are only can used for Research.

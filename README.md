@@ -1,4 +1,4 @@
-## "A Disease-Specific Foundation Model Using Over 100K Fundus Images: Release and Validation for Abnormality and Multi-Disease Classification on Downstream Tasks"
+## "M-FunFound: A Minimally Supervised Fundus Foundation Model for Multiple Tasks"
 
 ![alt text](image.png)
 
